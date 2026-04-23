@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
-  <rect width="192" height="192" fill="#000000"/>
-  <rect x="0" y="182" width="192" height="10" fill="#D0DF00"/>
-  <text x="96" y="110" text-anchor="middle" font-family="Arial Black, sans-serif" font-weight="900" font-size="72" fill="#FFFFFF">L</text>
-  <text x="116" y="110" text-anchor="middle" font-family="Arial Black, sans-serif" font-weight="900" font-size="72" fill="#D0DF00">.</text>
-  <text x="96" y="148" text-anchor="middle" font-family="Arial, sans-serif" font-weight="400" font-size="14" fill="rgba(255,255,255,0.4)" letter-spacing="4">MOVILIDAD</text>
-</svg>
